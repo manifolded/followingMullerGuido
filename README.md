@@ -8,5 +8,8 @@ Ambitious I know, but for the moment I only intend to following along with Chapt
 
 Nothing new will be included in this repo that doesn't appear in the book.  Sorry.
 
+## Chapter 7
+`Scikit-Learn Approach` - follow instructions on page 332 to download reviews data analyzed in this chapter.
+
 ## Acknowledgements
 Thanks for Müller and Guido who wrote the book from which I'm working.
